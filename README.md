@@ -24,3 +24,8 @@ A venir...
 
 ## Télécommande
 A venir...
+
+## Dependencies
+
+* `libsdl1.2-dev`
+* `python-pygame`
